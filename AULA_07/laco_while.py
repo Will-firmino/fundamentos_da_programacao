@@ -19,3 +19,4 @@ while True:
     print(f"Seja bem vindo {nome_usuario}")
     if nome_usuario == "jose":
         break # Quebra o laço de repetição mais próximo
+
