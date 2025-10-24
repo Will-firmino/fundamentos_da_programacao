@@ -39,6 +39,8 @@
 2. slicing
 => O slicing permite `extrair` partes de uma lista ou tupla, criando uma subestrutura a partir de um `intervalo` de índices.
 
+3. operador in
+=> Permite verificar se um elemento está presente em uma lista ou tupla. Retornar `True` se o elemento estiver na coleção ou `False` caso contrário.
 
 31/10/2025
 ## DICIONÁRIO - [dict]

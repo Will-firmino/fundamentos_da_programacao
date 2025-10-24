@@ -1,6 +1,14 @@
 tuplaDeNumeros = (1, 2, 3)
 tuplaDadosCidade = ("Rio de Janeiro", "RJ", True, 21, 500.00)
 
+# Operador in
+print(2 in tuplaDeNumeros) # True
+print(10 in tuplaDeNumeros) # False
+
+# Operação slicing
+tuplaDadosFatiado = tuplaDadosCidade[1:4]
+print(tuplaDadosFatiado)
+
 # Acesso por índice
 print(tuplaDeNumeros) # Exibe a tupla completa.
 print(tuplaDadosCidade[3]) # Exibe o 21, que é o item no terceiro índice.
