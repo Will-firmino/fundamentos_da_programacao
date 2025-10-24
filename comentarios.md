@@ -27,6 +27,13 @@
 ## LISTA - [list]
 => São coleções de elementos ``mutáveis``, ou seja, podem ser modificadas após a criação (adicionar, remover ou modificar elementos).
 => São flexíveis e podem conter qualquer tipo de dado, misturando-os conforme necessário. [HETEROGÊNEA].
+### Operações da lista
+1. .append() -> Adiciona um elemento ao final da lista.
+2. .insert() -> Insere um elemento em uma posição específica.
+3. .remove() -> Remove o primeiro elemento encontrado com o valor especificado.
+4. .sort() -> Ordena os elementos da lista em ordem crescente.
+5. .reverse() -> Reverte a ordem dos elementos da lista.
+
 
 ## TUPLA - [tuple]
 => São coleções `imutáveis`, o que significa que uma vez criada, não podem ser alteradas.
