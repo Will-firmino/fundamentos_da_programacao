@@ -22,3 +22,25 @@
  * inicio -> primeiro número (inclusivo)
  * fim -> último número-1 (exclusivo)
  * passo -> é a variação da sequência
+
+# ESTRUTURAS DE DADOS
+## LISTA - [list]
+=> São coleções de elementos ``mutáveis``, ou seja, podem ser modificadas após a criação (adicionar, remover ou modificar elementos).
+=> São flexíveis e podem conter qualquer tipo de dado, misturando-os conforme necessário. [HETEROGÊNEA].
+
+## TUPLA - [tuple]
+=> São coleções `imutáveis`, o que significa que uma vez criada, não podem ser alteradas.
+=> Tuplas podem conter qualquer tipo de dado. [HETEROGÊNEA].
+
+### Operações comuns: 
+1. acesso por índice
+=> O índice começa em `0`. E é acessado utilizando os `colchetes`.
+
+2. slicing
+=> O slicing permite `extrair` partes de uma lista ou tupla, criando uma subestrutura a partir de um `intervalo` de índices.
+
+
+31/10/2025
+## DICIONÁRIO - [dict]
+## CONJUNTO - [set]
+
