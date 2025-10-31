@@ -1,3 +1,4 @@
+print
 listaDeNumeros = [1, 2, 3]
 listaDeDados = ["William", 20, True, "Preto", 1.81]
 
