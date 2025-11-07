@@ -14,6 +14,9 @@ print(listaDeNumeros) # Exibe a lista completa
 print(listaDeNumeros[2]) # Exibe o número 3.
 print(listaDeDados[-1]) # Exibe o último elemento da lista.
 
+lista = ["headset", "mouse", "teclado"]
+for produto in lista:
+    print(f'A lista possui o produto {produto}')
 
 
 
