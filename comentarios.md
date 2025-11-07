@@ -49,7 +49,21 @@
 3. operador in
 => Permite verificar se um elemento está presente em uma lista ou tupla. Retornar `True` se o elemento estiver na coleção ou `False` caso contrário.
 
-31/10/2025
+
 ## DICIONÁRIO - [dict]
+Armazenam dados em pares chave:valor. Heterogêneos, mutáveis.
+
+### Operações com dicionários
+1. [] -> Acessar valores.
+2. [] -> Adicionar itens.
+3. [] -> Alterar valores.
+4. for, in, .items() -> Iterar sobre o dicionário.
+5. .pop(chave) -> Remove o item e retorna o valor dele.
+6. del -> Simplesmente apaga o par chave:valor.
+7. .keys() -> Obter todas as chaves.
+8. .values() -> Obter todos os valores.
+
+IPC -> No dicionário, para você acessar o valor, é necessário chamar a chave.
+
 ## CONJUNTO - [set]
 
