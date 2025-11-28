@@ -24,5 +24,8 @@ produtos = [
     {"id": 3, "nome":"Relógio", "descricao": "Relógio digital à prova d'água", "preco": 199.90 }
     ]
 
+print(f'ID: {[produtos][1]}')
+
+
 
 exibir_catalogo(produtos)
